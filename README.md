@@ -23,7 +23,7 @@
 
 • Simple and user-friendly GUI
 
-## How to run the project? :
+## How to run the project ? :
 
 1- Open the solution (.sln) file in Visual Studio
 
