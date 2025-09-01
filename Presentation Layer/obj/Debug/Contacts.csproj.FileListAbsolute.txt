@@ -1,0 +1,13 @@
+C:\Users\DELL\Downloads\Programming\Contacts Project\Presentation Layer\bin\Debug\Contacts Solution (Console app) - Find Contact.exe.config
+C:\Users\DELL\Downloads\Programming\Contacts Project\Presentation Layer\bin\Debug\Contacts Solution (Console app) - Find Contact.exe
+C:\Users\DELL\Downloads\Programming\Contacts Project\Presentation Layer\bin\Debug\Contacts Solution (Console app) - Find Contact.pdb
+C:\Users\DELL\Downloads\Programming\Contacts Project\Presentation Layer\bin\Debug\BusinessLayer.dll
+C:\Users\DELL\Downloads\Programming\Contacts Project\Presentation Layer\bin\Debug\DataAccessLayer.dll
+C:\Users\DELL\Downloads\Programming\Contacts Project\Presentation Layer\bin\Debug\BusinessLayer.pdb
+C:\Users\DELL\Downloads\Programming\Contacts Project\Presentation Layer\bin\Debug\DataAccessLayer.pdb
+C:\Users\DELL\Downloads\Programming\Contacts Project\Presentation Layer\obj\Debug\Contacts.csproj.AssemblyReference.cache
+C:\Users\DELL\Downloads\Programming\Contacts Project\Presentation Layer\obj\Debug\Contacts Solution (Console app) - Find Contact.exe.config
+C:\Users\DELL\Downloads\Programming\Contacts Project\Presentation Layer\obj\Debug\Contacts.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Downloads\Programming\Contacts Project\Presentation Layer\obj\Debug\Contacts.csproj.Up2Date
+C:\Users\DELL\Downloads\Programming\Contacts Project\Presentation Layer\obj\Debug\Contacts Solution (Console app) - Find Contact.exe
+C:\Users\DELL\Downloads\Programming\Contacts Project\Presentation Layer\obj\Debug\Contacts Solution (Console app) - Find Contact.pdb

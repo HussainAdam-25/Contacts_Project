@@ -1,0 +1,9 @@
+C:\Users\DELL\Downloads\Programming\Contacts Project\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\DELL\Downloads\Programming\Contacts Project\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\DELL\Downloads\Programming\Contacts Project\BusinessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\DELL\Downloads\Programming\Contacts Project\BusinessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\DELL\Downloads\Programming\Contacts Project\BusinessLayer\obj\Debug\Contacts_BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\DELL\Downloads\Programming\Contacts Project\BusinessLayer\obj\Debug\Contacts_BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Downloads\Programming\Contacts Project\BusinessLayer\obj\Debug\Contacts.5C377D45.Up2Date
+C:\Users\DELL\Downloads\Programming\Contacts Project\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\DELL\Downloads\Programming\Contacts Project\BusinessLayer\obj\Debug\BusinessLayer.pdb

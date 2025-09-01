@@ -1,0 +1,6 @@
+D:\Abu hadhoud\abu hadhoud\Course  18\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+D:\Abu hadhoud\abu hadhoud\Course  18\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+D:\Abu hadhoud\abu hadhoud\Course  18\DataAccessLayer\obj\Debug\DataAccessLayer.csprojAssemblyReference.cache
+D:\Abu hadhoud\abu hadhoud\Course  18\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\Abu hadhoud\abu hadhoud\Course  18\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+D:\Abu hadhoud\abu hadhoud\Course  18\DataAccessLayer\obj\Debug\DataAccessLayer.pdb

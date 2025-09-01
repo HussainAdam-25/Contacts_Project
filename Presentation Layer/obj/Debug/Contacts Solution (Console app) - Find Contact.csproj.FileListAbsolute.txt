@@ -1,0 +1,24 @@
+D:\Abu hadhoud\abu hadhoud\Course  18\Contacts Solution (Console app) - Find Contact\bin\Debug\Contacts Solution (Console app) - Find Contact.exe.config
+D:\Abu hadhoud\abu hadhoud\Course  18\Contacts Solution (Console app) - Find Contact\bin\Debug\Contacts Solution (Console app) - Find Contact.exe
+D:\Abu hadhoud\abu hadhoud\Course  18\Contacts Solution (Console app) - Find Contact\bin\Debug\Contacts Solution (Console app) - Find Contact.pdb
+D:\Abu hadhoud\abu hadhoud\Course  18\Contacts Solution (Console app) - Find Contact\bin\Debug\BusinessLayer.dll
+D:\Abu hadhoud\abu hadhoud\Course  18\Contacts Solution (Console app) - Find Contact\bin\Debug\DataAccessLayer.dll
+D:\Abu hadhoud\abu hadhoud\Course  18\Contacts Solution (Console app) - Find Contact\bin\Debug\BusinessLayer.pdb
+D:\Abu hadhoud\abu hadhoud\Course  18\Contacts Solution (Console app) - Find Contact\bin\Debug\DataAccessLayer.pdb
+D:\Abu hadhoud\abu hadhoud\Course  18\Contacts Solution (Console app) - Find Contact\obj\Debug\Contacts Solution (Console app) - Find Contact.csprojAssemblyReference.cache
+D:\Abu hadhoud\abu hadhoud\Course  18\Contacts Solution (Console app) - Find Contact\obj\Debug\Contacts Solution (Console app) - Find Contact.csproj.CoreCompileInputs.cache
+D:\Abu hadhoud\abu hadhoud\Course  18\Contacts Solution (Console app) - Find Contact\obj\Debug\Contacts Solution (Console app) - Find Contact.csproj.CopyComplete
+D:\Abu hadhoud\abu hadhoud\Course  18\Contacts Solution (Console app) - Find Contact\obj\Debug\Contacts Solution (Console app) - Find Contact.exe
+D:\Abu hadhoud\abu hadhoud\Course  18\Contacts Solution (Console app) - Find Contact\obj\Debug\Contacts Solution (Console app) - Find Contact.pdb
+D:\Abu hadhoud\abu hadhoud\Course  18\Contacts Solution - Find Contact\bin\Debug\Contacts Solution (Console app) - Find Contact.exe.config
+D:\Abu hadhoud\abu hadhoud\Course  18\Contacts Solution - Find Contact\bin\Debug\Contacts Solution (Console app) - Find Contact.exe
+D:\Abu hadhoud\abu hadhoud\Course  18\Contacts Solution - Find Contact\bin\Debug\Contacts Solution (Console app) - Find Contact.pdb
+D:\Abu hadhoud\abu hadhoud\Course  18\Contacts Solution - Find Contact\bin\Debug\BusinessLayer.dll
+D:\Abu hadhoud\abu hadhoud\Course  18\Contacts Solution - Find Contact\bin\Debug\DataAccessLayer.dll
+D:\Abu hadhoud\abu hadhoud\Course  18\Contacts Solution - Find Contact\bin\Debug\BusinessLayer.pdb
+D:\Abu hadhoud\abu hadhoud\Course  18\Contacts Solution - Find Contact\bin\Debug\DataAccessLayer.pdb
+D:\Abu hadhoud\abu hadhoud\Course  18\Contacts Solution - Find Contact\obj\Debug\Contacts Solution (Console app) - Find Contact.csprojAssemblyReference.cache
+D:\Abu hadhoud\abu hadhoud\Course  18\Contacts Solution - Find Contact\obj\Debug\Contacts Solution (Console app) - Find Contact.csproj.CoreCompileInputs.cache
+D:\Abu hadhoud\abu hadhoud\Course  18\Contacts Solution - Find Contact\obj\Debug\Contacts Solution (Console app) - Find Contact.csproj.CopyComplete
+D:\Abu hadhoud\abu hadhoud\Course  18\Contacts Solution - Find Contact\obj\Debug\Contacts Solution (Console app) - Find Contact.exe
+D:\Abu hadhoud\abu hadhoud\Course  18\Contacts Solution - Find Contact\obj\Debug\Contacts Solution (Console app) - Find Contact.pdb
