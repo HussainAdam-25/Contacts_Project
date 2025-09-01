@@ -1,35 +1,35 @@
 # ☎️ People information management
 
 
--This is my first simple project using C# and 3-Tier Architecture.
+* This is my first simple project using C# and 3-Tier Architecture.
 
-The application allows adding, editing, and deleting person information in the database.
+- The application allows adding, editing, and deleting person information in the database.
 
 ## Technologies Used :
 
-C# - Windows Forms
+• C# - Windows Forms
 
-SQL Server
+• SQL Server
 
-3-Tier Architecture (Presentation - Business Logic - Data Access)
+• 3-Tier Architecture (Presentation - Business Logic - Data Access)
 
 ## Main Features :
 
-Add new person
+• Add new person
 
-Edit person data
+• Edit person data
 
-Delete person from system
+• Delete person from system
 
-Simple and user-friendly GUI
+• Simple and user-friendly GUI
 
 ## How to run the project? :
 
-Open the solution (.sln) file in Visual Studio
+1- Open the solution (.sln) file in Visual Studio
 
-Enter the database connection details
+2- Enter the database connection details
 
-Run the project
+3- Run the project
 
 
 
