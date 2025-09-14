@@ -1,4 +1,4 @@
-# ☎️ People information management
+# ☎️ Contact information management
 
 
 * This is my first simple project using C# and 3-Tier Architecture.
